@@ -1,0 +1,254 @@
+{
+	"rapports": [
+		{
+			"id": 1,
+			"date": "2023-09-16",
+			"location": "Draculadreef 18",
+			"completed": true,
+			"report": {
+				"damageInspection": {
+					"damLocation": "Gang",
+					"damNew": false,
+					"damType": "normaal gebruik",
+					"damDate": "2022-03-08",
+					"damRequiresAction": false,
+					"damDescription": "Hier en daar gaten in de muur.",
+					"damImage1": "/images/example1.jpg",
+					"damImage2": "/images/example2.jpg",
+					"damImage3": "/images/example3.jpg"
+				},
+				"maintenance": {
+					"maintLocation": "Dakraam",
+					"maintType": "Beglazing",
+					"maintRequiresAction": false,
+					"maintKost": "500 - 1.500",
+					"maintImage1": "/images/example1.jpg",
+					"maintImage2": "/images/example2.jpg",
+					"maintImage3": "/images/example3.jpg"
+				},
+				"technicalInstallations": {
+					"techLocation": "Zolder",
+					"techType": "Luchtverversing",
+					"techReportedMalfunction": "aan vervanging toe.",
+					"techTestProcedure": "PDFurl",
+					"techApproved": true,
+					"techNotes": "Maakt tikkend geluid.",
+					"techImage1": "/images/example1.jpg",
+					"techImage2": "/images/example2.jpg",
+					"techImage3": "/images/example3.jpg"
+				},
+				"modifications": {
+					"modiCurrentSituation": "PDFurl",
+					"modiLocation": "Keuken",
+					"modiCarriedOutBy": "Huurder",
+					"modiDescription": "Aansluiting oven",
+					"modiRequiresAction": "Laten aanpassen en keuren.",
+					"modiNotes": "",
+					"modiImage1": "/images/example1.jpg",
+					"modiImage2": "/images/example2.jpg",
+					"modiImage3": "/images/example3.jpg"
+				}
+			}
+		},
+		{
+			"id": 2,
+			"date": "2023-06-28",
+			"location": "Mysteriumlaan 999",
+			"completed": true,
+			"report": {
+				"damageInspection": {
+					"damLocation": "Achterdeur",
+					"damNew": true,
+					"damType": "Geweld",
+					"damDate": "2022-06-21",
+					"damRequiresAction": true,
+					"damDescription": "Er is een poging tot inbraak geweest.",
+					"damImage1": "/images/example1.jpg",
+					"damImage2": "/images/example2.jpg",
+					"damImage3": "/images/example3.jpg"
+				},
+				"maintenance": {
+					"maintLocation": "Meterkast",
+					"maintType": "Elektra",
+					"maintRequiresAction": true,
+					"maintKost": "500 - 1.500",
+					"maintImage1": "/images/example1.jpg",
+					"maintImage2": "/images/example2.jpg",
+					"maintImage3": "/images/example3.jpg"
+				},
+				"technicalInstallations": {
+					"techLocation": "Slaapkamer 1",
+					"techType": "Verwarming",
+					"techReportedMalfunction": "Leiding vervangen",
+					"techTestProcedure": "PDFurl",
+					"techApproved": true,
+					"techNotes": "",
+					"techImage1": "/images/example1.jpg",
+					"techImage2": "/images/example2.jpg",
+					"techImage3": "/images/example3.jpg"
+				},
+				"modifications": {
+					"modiCurrentSituation": "PDFurl",
+					"modiLocation": "Dakkapel",
+					"modiCarriedOutBy": "Aannemer",
+					"modiDescription": "Kleine dakkapel aan achterzijde huis geplaatst.",
+					"modiRequiresAction": "Accepteren",
+					"modiNotes": "Zal week 29 worden afgewerkt",
+					"modiImage1": "/images/example1.jpg",
+					"modiImage2": "/images/example2.jpg",
+					"modiImage3": "/images/example3.jpg"
+				}
+			}
+		},
+		{
+			"id": 3,
+			"date": "2023-05-09",
+			"location": "Patchworkstraat 7",
+			"completed": true,
+			"report": {
+				"damageInspection": {
+					"damLocation": "Woonkamer plafond",
+					"damNew": true,
+					"damType": "Calamiteit",
+					"damDate": "2022-05-08",
+					"damRequiresAction": false,
+					"damDescription": "Waterschade van bovenburen.",
+					"damImage1": "/images/example1.jpg",
+					"damImage2": "/images/example2.jpg",
+					"damImage3": "/images/example3.jpg"
+				},
+				"maintenance": {
+					"maintLocation": "Zolder",
+					"maintType": "Houtrot",
+					"maintRequiresAction": true,
+					"maintKost": "1.500 +",
+					"maintImage1": "/images/example1.jpg",
+					"maintImage2": "/images/example2.jpg",
+					"maintImage3": "/images/example3.jpg"
+				},
+				"technicalInstallations": {
+					"techLocation": "Gang en keuken",
+					"techType": "Beveiliging",
+					"techReportedMalfunction": "Brandalarm functioneert niet goed.",
+					"techTestProcedure": "PDFurl",
+					"techApproved": false,
+					"techNotes": "Al eerder naar gekeken zonder resultaat.",
+					"techImage1": "/images/example1.jpg",
+					"techImage2": "/images/example2.jpg",
+					"techImage3": "/images/example3.jpg"
+				},
+				"modifications": {
+					"modiCurrentSituation": "PDFurl",
+					"modiLocation": "Kelder",
+					"modiCarriedOutBy": "Onbekend",
+					"modiDescription": "Verlegging van stopcontact.",
+					"modiRequiresAction": "Laten verwijderen",
+					"modiNotes": "",
+					"modiImage1": "/images/example1.jpg",
+					"modiImage2": "/images/example2.jpg",
+					"modiImage3": "/images/example3.jpg"
+				}
+			}
+		},
+		{
+			"id": 4,
+			"date": "2023-07-11",
+			"location": "Everdellplantsoen 13",
+			"completed": false,
+			"report": {
+				"damageInspection": {
+					"damLocation": "Keuken",
+					"damNew": true,
+					"damType": "normaal gebruik",
+					"damDate": "2022-07-08",
+					"damRequiresAction": false,
+					"damDescription": "Oven is binnenkort aan vervanging toe.",
+					"damImage1": "/images/example1.jpg",
+					"damImage2": "/images/example2.jpg",
+					"damImage3": "/images/example3.jpg"
+				},
+				"maintenance": {
+					"maintLocation": "Keuken raamkozijn",
+					"maintType": "Houtrot",
+					"maintRequiresAction": true,
+					"maintKost": "500 - 1.500",
+					"maintImage1": "/images/example1.jpg",
+					"maintImage2": "/images/example2.jpg",
+					"maintImage3": "/images/example3.jpg"
+				},
+				"technicalInstallations": {
+					"techLocation": "Badkamer",
+					"techType": "Luchtverversing",
+					"techReportedMalfunction": "Ventilatie werkt soms niet goed.",
+					"techTestProcedure": "PDFurl",
+					"techApproved": false,
+					"techNotes": "Moet naar gekeken worden.",
+					"techImage1": "/images/example1.jpg",
+					"techImage2": "/images/example2.jpg",
+					"techImage3": "/images/example3.jpg"
+				},
+				"modifications": {
+					"modiCurrentSituation": "PDFurl",
+					"modiLocation": "Wc",
+					"modiCarriedOutBy": "Huurder",
+					"modiDescription": "Noodoplossing leiding vervangen.",
+					"modiRequiresAction": "Laten aanpassen en keuren.",
+					"modiNotes": "",
+					"modiImage1": "/images/example1.jpg",
+					"modiImage2": "/images/example2.jpg",
+					"modiImage3": "/images/example3.jpg"
+				}
+			}
+		},
+		{
+			"id": 5,
+			"date": "2023-07-22",
+			"location": "Istanbullaan 44",
+			"completed": false,
+			"report": {
+				"damageInspection": {
+					"damLocation": "Gang trap",
+					"damNew": false,
+					"damType": "Slijtage",
+					"damDate": "2022-07-02",
+					"damRequiresAction": true,
+					"damDescription": "Trapleuning komt van de muur af.",
+					"damImage1": "/images/example1.jpg",
+					"damImage2": "/images/example2.jpg",
+					"damImage3": "/images/example3.jpg"
+				},
+				"maintenance": {
+					"maintLocation": "Gang",
+					"maintType": "Schilderwerk",
+					"maintRequiresAction": false,
+					"maintKost": "0 - 500",
+					"maintImage1": "/images/example1.jpg",
+					"maintImage2": "/images/example2.jpg",
+					"maintImage3": "/images/example3.jpg"
+				},
+				"technicalInstallations": {
+					"techLocation": "Overloop",
+					"techType": "Electra",
+					"techReportedMalfunction": "Plafond lamp kapot",
+					"techTestProcedure": "PDFurl",
+					"techApproved": true,
+					"techNotes": "Is vervangen.",
+					"techImage1": "/images/example1.jpg",
+					"techImage2": "/images/example2.jpg",
+					"techImage3": "/images/example3.jpg"
+				},
+				"modifications": {
+					"modiCurrentSituation": "PDFurl",
+					"modiLocation": "Achtergevel",
+					"modiCarriedOutBy": "Aannemer",
+					"modiDescription": "Nieuw rolluik geplaatst.",
+					"modiRequiresAction": "Laten keuren",
+					"modiNotes": "Er miste een onderdelen wat later geplaatst zal worden.",
+					"modiImage1": "/images/example1.jpg",
+					"modiImage2": "/images/example2.jpg",
+					"modiImage3": "/images/example3.jpg"
+				}
+			}
+		}
+	]
+}
