@@ -21,7 +21,7 @@
 					"maintLocation": "Dakraam",
 					"maintType": "Beglazing",
 					"maintRequiresAction": false,
-					"maintKost": "500 - 1.500",
+					"maintCost": "500 - 1.500",
 					"maintImage1": "/images/example1.jpg",
 					"maintImage2": "/images/example2.jpg",
 					"maintImage3": "/images/example3.jpg"
