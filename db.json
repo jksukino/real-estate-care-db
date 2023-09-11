@@ -9,7 +9,7 @@
 				"damageInspection": {
 					"damLocation": "Gang",
 					"damNew": false,
-					"damType": "normaal gebruik",
+					"damType": "Normaal gebruik",
 					"damDate": "2022-03-08",
 					"damRequiresAction": false,
 					"damDescription": "Hier en daar gaten in de muur.",
@@ -29,7 +29,7 @@
 				"technicalInstallations": {
 					"techLocation": "Zolder",
 					"techType": "Luchtverversing",
-					"techReportedMalfunction": "aan vervanging toe.",
+					"techReportedMalfunction": "Aan vervanging toe.",
 					"techTestProcedure": "PDFurl",
 					"techApproved": true,
 					"techNotes": "Maakt tikkend geluid.",
@@ -159,7 +159,7 @@
 				"damageInspection": {
 					"damLocation": "Keuken",
 					"damNew": true,
-					"damType": "normaal gebruik",
+					"damType": "Normaal gebruik",
 					"damDate": "2022-07-08",
 					"damRequiresAction": false,
 					"damDescription": "Oven is binnenkort aan vervanging toe.",
