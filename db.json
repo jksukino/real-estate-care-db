@@ -13,18 +13,14 @@
 					"damDate": "2022-03-08",
 					"damRequiresAction": false,
 					"damDescription": "Hier en daar gaten in de muur.",
-					"damImage1": "/images/example1.jpg",
-					"damImage2": "/images/example2.jpg",
-					"damImage3": "/images/example3.jpg"
+					"damImages": ["example-1.jpg", "example-2.jpg", "example-3.jpg"]
 				},
 				"maintenance": {
 					"maintLocation": "Dakraam",
 					"maintType": "Beglazing",
 					"maintRequiresAction": false,
 					"maintCost": "500 - 1.500",
-					"maintImage1": "/images/example1.jpg",
-					"maintImage2": "/images/example2.jpg",
-					"maintImage3": "/images/example3.jpg"
+					"maintImages": ["example-1.jpg", "example-2.jpg"]
 				},
 				"technicalInstallations": {
 					"techLocation": "Zolder",
@@ -33,9 +29,7 @@
 					"techTestProcedure": "PDFurl",
 					"techApproved": true,
 					"techNotes": "Maakt tikkend geluid.",
-					"techImage1": "/images/example1.jpg",
-					"techImage2": "/images/example2.jpg",
-					"techImage3": "/images/example3.jpg"
+					"techImages": ["example-1.jpg"]
 				},
 				"modifications": {
 					"modiCurrentSituation": "PDFurl",
@@ -44,9 +38,7 @@
 					"modiDescription": "Aansluiting oven",
 					"modiRequiresAction": "Laten aanpassen en keuren.",
 					"modiNotes": "",
-					"modiImage1": "/images/example1.jpg",
-					"modiImage2": "/images/example2.jpg",
-					"modiImage3": "/images/example3.jpg"
+					"modiImages": ["example-1.jpg", "example-2.jpg", "example-3.jpg"]
 				}
 			}
 		},
@@ -63,18 +55,14 @@
 					"damDate": "2022-06-21",
 					"damRequiresAction": true,
 					"damDescription": "Er is een poging tot inbraak geweest.",
-					"damImage1": "/images/example1.jpg",
-					"damImage2": "/images/example2.jpg",
-					"damImage3": "/images/example3.jpg"
+					"damImages": ["example-1.jpg"]
 				},
 				"maintenance": {
 					"maintLocation": "Meterkast",
 					"maintType": "Elektra",
 					"maintRequiresAction": true,
 					"maintKost": "500 - 1.500",
-					"maintImage1": "/images/example1.jpg",
-					"maintImage2": "/images/example2.jpg",
-					"maintImage3": "/images/example3.jpg"
+					"maintImages": []
 				},
 				"technicalInstallations": {
 					"techLocation": "Slaapkamer 1",
@@ -83,9 +71,7 @@
 					"techTestProcedure": "PDFurl",
 					"techApproved": true,
 					"techNotes": "",
-					"techImage1": "/images/example1.jpg",
-					"techImage2": "/images/example2.jpg",
-					"techImage3": "/images/example3.jpg"
+					"techImages": ["example-1.jpg"]
 				},
 				"modifications": {
 					"modiCurrentSituation": "PDFurl",
@@ -94,9 +80,7 @@
 					"modiDescription": "Kleine dakkapel aan achterzijde huis geplaatst.",
 					"modiRequiresAction": "Accepteren",
 					"modiNotes": "Zal week 29 worden afgewerkt",
-					"modiImage1": "/images/example1.jpg",
-					"modiImage2": "/images/example2.jpg",
-					"modiImage3": "/images/example3.jpg"
+					"modiImages": ["example-1.jpg"]
 				}
 			}
 		},
@@ -113,18 +97,14 @@
 					"damDate": "2022-05-08",
 					"damRequiresAction": false,
 					"damDescription": "Waterschade van bovenburen.",
-					"damImage1": "/images/example1.jpg",
-					"damImage2": "/images/example2.jpg",
-					"damImage3": "/images/example3.jpg"
+					"damImages": []
 				},
 				"maintenance": {
 					"maintLocation": "Zolder",
 					"maintType": "Houtrot",
 					"maintRequiresAction": true,
 					"maintKost": "1.500 +",
-					"maintImage1": "/images/example1.jpg",
-					"maintImage2": "/images/example2.jpg",
-					"maintImage3": "/images/example3.jpg"
+					"maintImages": ["example-1.jpg"]
 				},
 				"technicalInstallations": {
 					"techLocation": "Gang en keuken",
@@ -133,9 +113,7 @@
 					"techTestProcedure": "PDFurl",
 					"techApproved": false,
 					"techNotes": "Al eerder naar gekeken zonder resultaat.",
-					"techImage1": "/images/example1.jpg",
-					"techImage2": "/images/example2.jpg",
-					"techImage3": "/images/example3.jpg"
+					"techImages": ["example-1.jpg", "example-2.jpg"]
 				},
 				"modifications": {
 					"modiCurrentSituation": "PDFurl",
@@ -144,9 +122,7 @@
 					"modiDescription": "Verlegging van stopcontact.",
 					"modiRequiresAction": "Laten verwijderen",
 					"modiNotes": "",
-					"modiImage1": "/images/example1.jpg",
-					"modiImage2": "/images/example2.jpg",
-					"modiImage3": "/images/example3.jpg"
+					"modiImages": ["example-1.jpg", "example-2.jpg"]
 				}
 			}
 		},
@@ -163,18 +139,14 @@
 					"damDate": "2022-07-08",
 					"damRequiresAction": false,
 					"damDescription": "Oven is binnenkort aan vervanging toe.",
-					"damImage1": "/images/example1.jpg",
-					"damImage2": "/images/example2.jpg",
-					"damImage3": "/images/example3.jpg"
+					"damImages": ["example-1.jpg", "example-2.jpg", "example-3.jpg"]
 				},
 				"maintenance": {
 					"maintLocation": "Keuken raamkozijn",
 					"maintType": "Houtrot",
 					"maintRequiresAction": true,
 					"maintKost": "500 - 1.500",
-					"maintImage1": "/images/example1.jpg",
-					"maintImage2": "/images/example2.jpg",
-					"maintImage3": "/images/example3.jpg"
+					"maintImages": []
 				},
 				"technicalInstallations": {
 					"techLocation": "Badkamer",
@@ -183,9 +155,7 @@
 					"techTestProcedure": "PDFurl",
 					"techApproved": false,
 					"techNotes": "Moet naar gekeken worden.",
-					"techImage1": "/images/example1.jpg",
-					"techImage2": "/images/example2.jpg",
-					"techImage3": "/images/example3.jpg"
+					"techImages": ["example-1.jpg"]
 				},
 				"modifications": {
 					"modiCurrentSituation": "PDFurl",
@@ -194,9 +164,7 @@
 					"modiDescription": "Noodoplossing leiding vervangen.",
 					"modiRequiresAction": "Laten aanpassen en keuren.",
 					"modiNotes": "",
-					"modiImage1": "/images/example1.jpg",
-					"modiImage2": "/images/example2.jpg",
-					"modiImage3": "/images/example3.jpg"
+					"modiImages": ["example-1.jpg"]
 				}
 			}
 		},
@@ -213,18 +181,14 @@
 					"damDate": "2022-07-02",
 					"damRequiresAction": true,
 					"damDescription": "Trapleuning komt van de muur af.",
-					"damImage1": "/images/example1.jpg",
-					"damImage2": "/images/example2.jpg",
-					"damImage3": "/images/example3.jpg"
+					"damImages": ["example-1.jpg", "example-2.jpg"]
 				},
 				"maintenance": {
 					"maintLocation": "Gang",
 					"maintType": "Schilderwerk",
 					"maintRequiresAction": false,
 					"maintKost": "0 - 500",
-					"maintImage1": "/images/example1.jpg",
-					"maintImage2": "/images/example2.jpg",
-					"maintImage3": "/images/example3.jpg"
+					"maintImages": ["example-1.jpg", "example-2.jpg", "example-3.jpg"]
 				},
 				"technicalInstallations": {
 					"techLocation": "Overloop",
@@ -233,9 +197,7 @@
 					"techTestProcedure": "PDFurl",
 					"techApproved": true,
 					"techNotes": "Is vervangen.",
-					"techImage1": "/images/example1.jpg",
-					"techImage2": "/images/example2.jpg",
-					"techImage3": "/images/example3.jpg"
+					"techImages": ["example-1.jpg"]
 				},
 				"modifications": {
 					"modiCurrentSituation": "PDFurl",
@@ -244,9 +206,7 @@
 					"modiDescription": "Nieuw rolluik geplaatst.",
 					"modiRequiresAction": "Laten keuren",
 					"modiNotes": "Er miste een onderdelen wat later geplaatst zal worden.",
-					"modiImage1": "/images/example1.jpg",
-					"modiImage2": "/images/example2.jpg",
-					"modiImage3": "/images/example3.jpg"
+					"modiImages": ["example-1.jpg"]
 				}
 			}
 		}
