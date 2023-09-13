@@ -77,7 +77,7 @@
 			"maintLocation": "Meterkast",
 			"maintType": "Elektra",
 			"maintRequiresAction": true,
-			"maintKost": "500 - 1.500",
+			"maintCost": "500 - 1.500",
 			"maintImages": []
 		},
 		{
@@ -131,7 +131,7 @@
 			"maintLocation": "Zolder",
 			"maintType": "Houtrot",
 			"maintRequiresAction": true,
-			"maintKost": "1.500 +",
+			"maintCost": "1.500 +",
 			"maintImages": ["example-1.jpg"]
 		},
 		{	
@@ -185,7 +185,7 @@
 			"maintLocation": "Keuken raamkozijn",
 			"maintType": "Houtrot",
 			"maintRequiresAction": true,
-			"maintKost": "500 - 1.500",
+			"maintCost": "500 - 1.500",
 			"maintImages": []
 		},
 		{	
@@ -239,7 +239,7 @@
 			"maintLocation": "Gang",
 			"maintType": "Schilderwerk",
 			"maintRequiresAction": false,
-			"maintKost": "0 - 500",
+			"maintCost": "0 - 500",
 			"maintImages": ["example-1.jpg", "example-2.jpg", "example-3.jpg"]
 		},
 		{
