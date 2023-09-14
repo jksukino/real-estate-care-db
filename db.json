@@ -275,7 +275,7 @@
 		{
 			"id": 1,
 			"userName": "Nada",
-			"password": "123456",
+			"password": "$2y$10$yn7TmetvABgwNP.Qj7G58egGhqxs1XJZmWBWjx/wpPW7ZQisShv5e",
 			"firstName": "Nada",
 			"lastName": "Poes",
 			"avatar": "nada.jpg",
