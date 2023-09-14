@@ -282,6 +282,17 @@
 			"Role": "User",
 			"IssuedAt": "2023-09-14T08:07:30.429Z",
 			"Expiration": "2023-10-14T08:07:30.429Z"
+		},
+		{
+			"id": 2,
+			"userName": "Jasper",
+			"password": "$2y$10$yn7TmetvABgwNP.Qj7G58egGhqxs1XJZmWBWjx/wpPW7ZQisShv5e",
+			"firstName": "Jasper",
+			"lastName": "Krab",
+			"avatar": "jasper.jpg",
+			"Role": "User",
+			"IssuedAt": "2023-09-14T08:07:30.429Z",
+			"Expiration": "2023-10-14T08:07:30.429Z"
 		}
 	]
 }
