@@ -273,14 +273,14 @@
 	],
 	"users": [
 		{
-			"username": "Nada",
-			"firstname": "Nada",
-			"lastname": "Poes",
+			"userName": "Nada",
+			"firstName": "Nada",
+			"lastName": "Poes",
 			"password": "",
 			"avatar": "",
-			"Role": "User"
+			"Role": "User",
 			"IssuedAt": "2023-09-14T08:07:30.429Z",
-			"Expiration": "2023-09-14T08:07:30.429Z",
-		},
+			"Expiration": "2023-09-14T08:07:30.429Z"
+		}
 	]
 }
