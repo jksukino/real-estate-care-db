@@ -270,5 +270,17 @@
 			"modiNotes": "Er miste een onderdelen wat later geplaatst zal worden.",
 			"modiImages": ["example-1.jpg"]
 		}
+	],
+	"users": [
+		{
+			"username": "Nada",
+			"firstname": "Nada",
+			"lastname": "Poes",
+			"password": "",
+			"avatar": "",
+			"Role": "User"
+			"Issued At": "2023-09-14T08:07:30.429Z",
+			"Expiration": "2023-09-14T08:07:30.429Z",
+		},
 	]
 }
