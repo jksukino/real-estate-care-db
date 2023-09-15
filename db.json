@@ -275,7 +275,7 @@
 		{
 			"id": 1,
 			"userName": "Nada",
-			"password": "$2y$10$yn7TmetvABgwNP.Qj7G58egGhqxs1XJZmWBWjx/wpPW7ZQisShv5e",
+			"password": "$2y$10$dUP3DHTY4ebuTNfHP3tn2uj49R/H0x3ixuAB34YpqoCrcINT56EPW",
 			"firstName": "Nada",
 			"lastName": "Poes",
 			"avatar": "nada.jpg",
@@ -286,7 +286,7 @@
 		{
 			"id": 2,
 			"userName": "Jasper",
-			"password": "$2y$10$yn7TmetvABgwNP.Qj7G58egGhqxs1XJZmWBWjx/wpPW7ZQisShv5e",
+			"password": "$2y$10$jX7Ps5OMjbSee.3HJSOxDOVcOqqC2tTUAcKmszJ20PK3fwNlXdKyq",
 			"firstName": "Jasper",
 			"lastName": "Krab",
 			"avatar": "jasper.jpg",
