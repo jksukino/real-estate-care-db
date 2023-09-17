@@ -50,7 +50,7 @@
 			"modiLocation": "Keuken",
 			"modiCarriedOutBy": "Huurder",
 			"modiDescription": "Aansluiting oven",
-			"modiRequiresAction": "Laten aanpassen en keuren.",
+			"modiRequiresAction": "Laten aanpassen en keuren",
 			"modiNotes": "",
 			"modiImages": ["example-1.jpg", "example-2.jpg", "example-3.jpg"]
 		},
@@ -212,7 +212,7 @@
 			"modiLocation": "Wc",
 			"modiCarriedOutBy": "Huurder",
 			"modiDescription": "Noodoplossing leiding vervangen.",
-			"modiRequiresAction": "Laten aanpassen en keuren.",
+			"modiRequiresAction": "Laten aanpassen en keuren",
 			"modiNotes": "",
 			"modiImages": ["example-1.jpg"]
 		},
