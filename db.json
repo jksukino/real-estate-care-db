@@ -44,15 +44,15 @@
 			"id": 4,
 			"date": "2023-09-24",
 			"location": "Boop Plantsoen 23",
-			"completed": true,
+			"completed": false,
 			"category": "Modifications",		
 			"modiCurrentSituation": "example-document.pdf",
-			"modiLocation": "Keuken",
+			"modiLocation": "",
 			"modiCarriedOutBy": "Huurder",
-			"modiDescription": "Aansluiting oven",
+			"modiDescription": "",
 			"modiRequiresAction": "Laten aanpassen en keuren",
 			"modiNotes": "",
-			"modiImages": ["example-1.jpg", "example-2.jpg", "example-3.jpg"]
+			"modiImages": ["example-3.jpg"]
 		},
 		{
 			"id": 5,
@@ -128,25 +128,25 @@
 			"location": "Tidalbladestraat 87",
 			"completed": false,
 			"category": "Maintenance",
-			"maintLocation": "Zolder",
-			"maintType": "Houtrot",
+			"maintLocation": "",
+			"maintType": "",
 			"maintRequiresAction": true,
-			"maintCost": "1.500 +",
-			"maintImages": ["example-1.jpg"]
+			"maintCost": "",
+			"maintImages": []
 		},
 		{	
 			"id": 11,
 			"date": "2023-09-02",
 			"location": "Photosynthlaan 42",
-			"completed": true,
+			"completed": false,
 			"category": "Installations",
-			"techLocation": "Gang en keuken",
+			"techLocation": "",
 			"techType": "Beveiliging",
-			"techReportedMalfunction": "Brandalarm functioneert niet goed.",
+			"techReportedMalfunction": "",
 			"techTestProcedure": "example-document.pdf",
 			"techApproved": false,
-			"techNotes": "Al eerder naar gekeken zonder resultaat.",
-			"techImages": ["example-1.jpg", "example-2.jpg"]
+			"techNotes": "",
+			"techImages": ["example-2.jpg"]
 		},
 		{
 			"id": 12,
