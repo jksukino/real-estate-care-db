@@ -279,7 +279,7 @@
 			"firstName": "Nada",
 			"lastName": "Poes",
 			"avatar": "nada.jpg",
-			"Role": "User",
+			"role": "Gebruiker",
 			"IssuedAt": "2023-09-14T08:07:30.429Z",
 			"Expiration": "2023-10-14T08:07:30.429Z"
 		},
@@ -290,7 +290,7 @@
 			"firstName": "Jasper",
 			"lastName": "Krab",
 			"avatar": "jasper.jpg",
-			"Role": "User",
+			"role": "Gebruiker",
 			"IssuedAt": "2023-09-14T08:07:30.429Z",
 			"Expiration": "2023-10-14T08:07:30.429Z"
 		}
